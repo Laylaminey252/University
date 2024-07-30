@@ -17,3 +17,5 @@ Clone the repository: git clone https://github.com/Leylaminey252
 Install the dependencies: npm install
 Start the development server: npm run dev
 Open your browser and visit: http://localhost:5173/
+
+deployment link: https://university-iota-cyan.vercel.app/
